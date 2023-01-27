@@ -1,6 +1,6 @@
 # nosql-challenge
 
-## Details about this challenge which leverlages MongoDB below:
+## Details about this challenge which uses MongoDB below:
 
 
 Challenge in progress
